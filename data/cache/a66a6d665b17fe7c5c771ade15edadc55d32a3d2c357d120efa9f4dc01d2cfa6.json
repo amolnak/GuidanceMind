@@ -1,0 +1,26 @@
+{
+  "Title": "Concept paper on the development of a Guideline on assessment and reporting of mechanistic models used in the context of model informed drug development",
+  "Summary": "This concept paper discusses the need for a new guideline on the assessment and reporting of mechanistic models, such as PBPK, PBBM, and QSP models, used in model-informed drug development (MIDD). The paper highlights the complexity of these models and the need for specific regulatory considerations to ensure accurate and informed outcomes.",
+  "Key Questions and Answers": [
+    "1. Purpose: To develop a guideline for the assessment and reporting of mechanistic models used in model-informed drug development.",
+    "2. Applicability: Applies to mechanistic models including PBPK, PBBM, and QSP models.",
+    "3. Problem Statement: Regulators need to confidently assess risks associated with mechanistic models, but current frameworks lack methods for uncertainty quantification and clear acceptance criteria.",
+    "4. Discussion: Topics include types of mechanistic models, MIDD evidence assessment, uncertainty quantification, model structure, data quality, and best practices for reporting.",
+    "5. Recommendation: Draft a guideline considering identified issues.",
+    "6. Proposed Timetable: Publish concept paper for two-month public consultation; draft guideline in 2025, complete in 2026.",
+    "7. Resource Requirements: Core drafting group of 4-6 people, wider group for discussion and review, monthly meetings.",
+    "8. Impact Assessment: Anticipated improvement in generation, communication, and regulatory assessment of MIDD evidence.",
+    "9. Interested Parties: CHMP, SAWP, PDCO, QWP, BWP, QIG, NcWP, 3RsWP, COMP, and other regulatory agencies."
+  ],
+  "Issuing Authority": "European Medicines Agency (EMA)",
+  "Centers Involved": "Committee for Medicinal Products for Human Use, Methodology Working Party",
+  "Date of Issuance": "January 20, 2025",
+  "Type of Document": "Concept Paper",
+  "Public Comment Period": "February 14, 2025 to May 31, 2025",
+  "Docket Number": "",
+  "Guidance Status": "Draft",
+  "Open for Comment": "Yes",
+  "Comment Closing Date": "May 31, 2025",
+  "Relevance of this Guidance": "This guidance is relevant for improving the regulatory standards for reporting and evaluation of mechanistic models, thereby enhancing the generation, communication, and regulatory assessment of MIDD evidence.",
+  "Parsed Issuance Date": "January 20, 2025"
+}

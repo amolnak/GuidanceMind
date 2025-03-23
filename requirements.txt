@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+requests
+PyMuPDF
+tiktoken
+openai==0.28
