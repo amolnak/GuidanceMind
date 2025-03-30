@@ -5,3 +5,5 @@ requests
 PyMuPDF
 tiktoken
 openai==0.28
+PyPDF2
+XlsxWriter
